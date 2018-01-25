@@ -51,12 +51,11 @@
     </license>
   </licenses>
 
-  <!-- TODO: change when forked into the jenkinsci org. -->
   <scm>
-    <connection>scm:git:git://github.com/cloudbees/cloudbees-devoptics-enabler-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:cloudbees/cloudbees-devoptics-plugin.git</developerConnection>
-    <url>http://github.com/cloudbees/cloudbees-devoptics-enabler-plugin</url>
-    <tag>HEAD</tag>
+    <connection>scm:git:ssh://github.com/jenkinsci/cloudbees-devoptics-enabler-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/cloudbees-devoptics-enabler-plugin.git
+    </developerConnection>
+    <url>https://github.com/jenkinsci/cloudbees-devoptics-enabler-plugin</url>
   </scm>
 
   <properties>
