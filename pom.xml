@@ -39,7 +39,7 @@
 
   <name>Enable CloudBees DevOptics Installation</name>
   <description>
-    This plugin makes CloudBees DevOptics components available in OSS installations of Jenkins.
+    Makes CloudBees DevOptics components available in Jenkins.
   </description>
   <url>https://wiki.jenkins.io/display/JENKINS/CloudBees+DevOptics+Enabler+Plugin</url>
   <licenses>
