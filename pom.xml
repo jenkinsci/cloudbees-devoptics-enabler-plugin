@@ -34,7 +34,7 @@
   </parent>
 
   <artifactId>cloudbees-devoptics-enabler</artifactId>
-  <version>0.3</version>
+  <version>0.4-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <name>Cloudbees DevOptics Installation Plugin</name>
@@ -54,7 +54,7 @@
     <connection>scm:git:ssh://github.com/jenkinsci/cloudbees-devoptics-enabler-plugin.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/jenkinsci/cloudbees-devoptics-enabler-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/cloudbees-devoptics-enabler-plugin</url>
-    <tag>cloudbees-devoptics-enabler-0.3</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
