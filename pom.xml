@@ -37,9 +37,9 @@
   <version>0.3-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
-  <name>Enable CloudBees DevOptics Installation</name>
+  <name>Cloudbees DevOptics Installation Plugin</name>
   <description>
-    This plugin makes CloudBees DevOptics components available in OSS installations of Jenkins.
+    This plugin makes CloudBees DevOptics components available in Jenkins.
   </description>
   <url>https://wiki.jenkins.io/display/JENKINS/CloudBees+DevOptics+Enabler+Plugin</url>
   <licenses>
