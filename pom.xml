@@ -41,7 +41,7 @@
   <description>
     This plugin makes CloudBees DevOptics components available in Jenkins.
   </description>
-  <url>https://wiki.jenkins.io/display/JENKINS/CloudBees+DevOptics+Enabler+Plugin</url>
+  <url>https://wiki.jenkins.io/display/JENKINS/CloudBees+DevOptics+Installation+Plugin</url>
   <licenses>
     <license>
       <name>The MIT license</name>
